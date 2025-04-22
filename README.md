@@ -6,10 +6,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rain-dears/rain-dears/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <a href="https://youtube.com/c/22qqPvP" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
