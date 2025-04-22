@@ -1,45 +1,38 @@
-<h1 align="center"><code>22qq</code> / rain / lauren</h1>
-<h3 align="center">i write minecraft code for fun, mostly clients</h3>
+<h1 align="center">Hello! I'm rain/22qq</h1>
 
-<p align="center">
-  <img src="https://github.com/narumii/narumii/assets/57463654/cba93ead-06f4-4194-bd62-b33ea4b6c7f2" width="90%" alt="banner" />
-</p>
+###
 
----
+<p align="center">I code Minecraft Client for fun</p>
 
-### 🛠 tech
+###
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
-</p>
+<img src="https://raw.githubusercontent.com/rain-dears/rain-dears/output/snake.svg" alt="Snake animation" />
 
----
+###
 
-### 🎬 youtube
+<div align="left">
+  <a href="https://youtube.com/c/22qqPvP" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://discord.com/users/794824902728351745" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
 
-[22qqpvp](https://www.youtube.com/c/22qqpvp)
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="gradle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
 
-### 📊 activity
+###
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=22qq&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=22qq&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/rain-dears/count.svg?"  />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=22qq&bg_color=0d1117&color=8be9fd&line=8be9fd&point=ffffff&area=true&hide_border=true" width="100%"/>
-</p>
-
----
-
-### 🧪 current
-
-```java
-// simulating left clicks because why not
-simulateClick(player);
+###
