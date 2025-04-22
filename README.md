@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm rain, known as 22qq</h1>
+<h1 align="center">Hi 👋, I'm rain/lauren, known as 22qq</h1>
 <h3 align="center">I try to code minecraft clients for fun!</h3>
+
+<img height="40" align="center" src="https://skillicons.dev/icons?i=java,idea&theme=dark"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
